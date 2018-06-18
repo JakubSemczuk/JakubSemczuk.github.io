@@ -10,4 +10,4 @@ It was productive day and I really think I understand more about Rails than I di
 
 EDIT: It turned out that my last 7 posts weren't pushed to Github cause there was a conflict and I didn't look at the errors :/ Lesson learned.
 
-EDIT2: I pushed it further today and watched one more talk to finish Day 5 of the [Advanced Beginner Challenge](https://starthereacademy.teachable.com/p/abc-course). So I did more than 4 hours of active, very focused learning today. Uff. The last talk I watched was [RailsConf 2016 - How We Deploy Shopify by Kat Drobnjakovic](https://www.youtube.com/watch?v=HNH7El_BEsw).
+EDIT2: I pushed it further today and watched one more talk to finish Day 6 of the [Advanced Beginner Challenge](https://starthereacademy.teachable.com/p/abc-course). So I did more than 4 hours of active, very focused learning today. Uff. The last talk I watched was [RailsConf 2016 - How We Deploy Shopify by Kat Drobnjakovic](https://www.youtube.com/watch?v=HNH7El_BEsw).
